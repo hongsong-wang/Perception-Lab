@@ -5,7 +5,7 @@
 ### 1. Human Action Understanding
 #### [USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation](https://arxiv.org/abs/2412.09220), AAAI2025
 
-![](https://github.com/wengwanjiang/USDRL/images/pipe.jpg)
+![](https://github.com/wengwanjiang/USDRL/tree/main/images/pipe.jpg)
 
 ### 2. Human Motion Generation
 
