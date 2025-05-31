@@ -15,6 +15,8 @@ We introduce a novel framework that seamlessly integrates reconstruction-based a
 
 We propose an Dual Visual-Text Alignment (DVTA), a novel zero-shot approach for skeleton-based action recognition. The method enhances generalization to unseen classes by jointly optimizing two modules: Direct Alignment (DA) and Augmented Alignment (AA).
 
+### [Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection](https://arxiv.org/abs/2412.03044), [Code](https://github.com/Xiaofeng-Tan/FGDMAD-Code)
+
 ### [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795), [Code](https://github.com/Chaolei98/FreeZAD), [Project](https://chaolei98.github.io/FreeZAD/)
 
 To the best of our knowledge, we are the first to investigate the problem of training-free ZSTAD. We propose FreeZAD, a training-free approach for ZSTAD, which effectively leverages the generalization capabilities of ViL models to detect unseen activities. We introduce a simple yet effective TTA method that extends FreeZAD and enhances its performance by enabling adaptation to a video sequence without supervision.
