@@ -1,4 +1,4 @@
-# Recent Research by Our Visual Perception Group (视觉感知小组的最新研究成果)
+# Recent Research by Our Visual Perception Group
 
 ## Human Motion Understanding and Generation
 
@@ -27,7 +27,7 @@ To the best of our knowledge, we are the first to investigate the problem of tra
 
 We empirically study the neglected task of image-based human action retrieval, and establish new benchmarks and important baselines to promote research in this field. We introduce an efficient Region-aware Image-based human Action Retrieval with Transformers (RIART), which leverages both person-related and contextual object cues, and employs a fusion transformer module for human action retrieval.
 
-For further works about skeleton-based uman action understanding, please visit the [skeleton_action_awesome](https://hongsong-wang.github.io/skeleton_action_awesome/).
+For further works about skeleton-based uman action understanding, please visit the [skeleton_action_awesome](https://github.com/hongsong-wang/skeleton_action_awesome/).
 
 ### 2. Human Motion Generation
 
@@ -77,7 +77,7 @@ We propose flexible music-conditioned Dance Generation with Style Description Pr
 
 我们系统研究了图像级人体动作检索这一长期被忽视的任务，建立了新的基准和重要基线，以推动该方向研究。我们提出了基于区域感知Transformer的人体动作图像检索方法，结合人物区域与上下文物体线索，并采用融合Transformer模块以提升检索性能。
 
-如需了解更多关于基于骨架的人体动作理解研究，请访问[skeleton_action_awesome](https://hongsong-wang.github.io/skeleton_action_awesome/).
+如需了解更多关于基于骨架的人体动作理解研究，请访问[skeleton_action_awesome](https://github.com/hongsong-wang/skeleton_action_awesome/).
 
 ### 2. 人体动作生成
 
@@ -96,3 +96,9 @@ We propose flexible music-conditioned Dance Generation with Style Description Pr
 ### [基于风格提示的灵活音乐驱动舞蹈生成](https://arxiv.org/abs/2406.07871)
 
 我们提出了一种支持风格提示的灵活音乐驱动舞蹈生成方法，通过引入风格描述提示词增强动作的风格表现。提出的MCSAD框架包含一个基于Transformer的舞蹈生成网络和风格调制模块。
+
+<div style="background-color: #f6f8fa; padding: 1em; border-radius: 6px; font-family: monospace; white-space: pre-wrap;">
+<code>
+This webpage is protected by copyright laws. Without the written permission of the owner of this webpage, no individual or organization shall use the content of this webpage in any form. If there is a need to reprint the content of this webpage for non-commercial purposes such as learning, research, or personal sharing, the source must be clearly indicated as "Content sourced from [https://github.com/hongsong-wang/Perception-Lab/]". The content must be kept intact, and no alteration or distortion of the original text is allowed. The owner of this webpage reserves the right to pursue legal liability for any unauthorized use of the content of this webpage. If you find these works useful, please cite the above works.
+</code>
+</div>
