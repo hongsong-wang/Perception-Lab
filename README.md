@@ -3,9 +3,9 @@
 ## Human Motion Understanding and Generation
 
 ### 1. Human Action Understanding
-#### [USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation](https://arxiv.org/abs/2412.09220), AAAI2025
+#### [USDRL: Unified Skeleton-Based Dense Representation Learning with Multi-Grained Feature Decorrelation](https://arxiv.org/abs/2412.09220), [Code](https://github.com/wengwanjiang/USDRL), AAAI2025
 
-![](https://github.com/wengwanjiang/USDRL/tree/main/images/pipe.jpg)
+We propose a simple yet effective method named Unified Skeleton-based Dense Representation Learning (USDRL) that learns dense representations through multi-grained feature decorrelation, demonstrating the feasibility of feature decorrelation in skeleton-based dense representations learning.
 
 ### 2. Human Motion Generation
 
