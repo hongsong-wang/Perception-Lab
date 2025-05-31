@@ -11,8 +11,17 @@ We propose a simple yet effective method named Unified Skeleton-based Dense Repr
 
 We introduce a novel framework that seamlessly integrates reconstruction-based and prediction-based methods for video anomaly detection, leveraging the strengths of both approaches. We propose a Dual Conditioned Motion Diffusion (DCMD), which incorporates both conditioned motion and conditioned embedding in a diffusion-based model.
 
+### [Zero-Shot Skeleton-based Action Recognition with Dual Visual-Text Alignment](https://arxiv.org/abs/2409.14336)
+
+We propose an Dual Visual-Text Alignment (DVTA), a novel zero-shot approach for skeleton-based action recognition. The method enhances generalization to unseen classes by jointly optimizing two modules: Direct Alignment (DA) and Augmented Alignment (AA).
+
 ### [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795), [Code](https://github.com/Chaolei98/FreeZAD), [Project](https://chaolei98.github.io/FreeZAD/)
+
 To the best of our knowledge, we are the first to investigate the problem of training-free ZSTAD. We propose FreeZAD, a training-free approach for ZSTAD, which effectively leverages the generalization capabilities of ViL models to detect unseen activities. We introduce a simple yet effective TTA method that extends FreeZAD and enhances its performance by enabling adaptation to a video sequence without supervision.
+
+### [Region-aware Image-based Human Action Retrieval with Transformers](https://arxiv.org/html/2407.09924v2), CVIU2024
+
+We empirically study the neglected task of image-based human action retrieval, and establish new benchmarks and important baselines to promote research in this field. We introduce an efficient Region-aware Image-based human Action Retrieval with Transformers (RIART), which leverages both person-related and contextual object cues, and employs a fusion transformer module for human action retrieval.
 
 ### 2. Human Motion Generation
 
