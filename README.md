@@ -27,7 +27,7 @@ To the best of our knowledge, we are the first to investigate the problem of tra
 
 We empirically study the neglected task of image-based human action retrieval, and establish new benchmarks and important baselines to promote research in this field. We introduce an efficient Region-aware Image-based human Action Retrieval with Transformers (RIART), which leverages both person-related and contextual object cues, and employs a fusion transformer module for human action retrieval.
 
-For further works about skeleton-based uman action understanding, please visit the [skeleton_action_awesome](https://hongsong-wang.github.io/skeleton_action_awesome/).
+For further works about skeleton-based uman action understanding, please visit the [skeleton_action_awesome](https://github.com/hongsong-wang/skeleton_action_awesome/).
 
 ### 2. Human Motion Generation
 
@@ -77,7 +77,7 @@ We propose flexible music-conditioned Dance Generation with Style Description Pr
 
 我们系统研究了图像级人体动作检索这一长期被忽视的任务，建立了新的基准和重要基线，以推动该方向研究。我们提出了基于区域感知Transformer的人体动作图像检索方法，结合人物区域与上下文物体线索，并采用融合Transformer模块以提升检索性能。
 
-如需了解更多关于基于骨架的人体动作理解研究，请访问[skeleton_action_awesome](https://hongsong-wang.github.io/skeleton_action_awesome/).
+如需了解更多关于基于骨架的人体动作理解研究，请访问[skeleton_action_awesome](https://github.com/hongsong-wang/skeleton_action_awesome/).
 
 ### 2. 人体动作生成
 
