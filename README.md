@@ -4,7 +4,13 @@
 
 ### 1. Human Action Understanding
 
-### 2. Human Motion Generation Understanding
+### 2. Human Motion Generation
 
 
 # Below is the Chinese version (以下为对应的中文版本)
+
+## 人体动作理解与生成
+
+### 1. 人体行为理解
+
+### 2. 人体动作生成
