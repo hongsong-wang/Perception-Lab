@@ -43,7 +43,7 @@ Our first contribution is the explicit revelation of the limitations of both onl
 
 We introduce Plausibility-Aware Motion Diffusion (PAMD), a diffusion-based framework for music-to-dance generation. PAMD generates dances that are both musically aligned and physically realistic. To ensure realistic dance generation, we design Plausible Motion Constraint (PMC), which uses NDFs to model plausible human poses on a continuous manifold, the first application of NDFs in music-to-dance generation.
 
-#### [Flexible Music-Conditioned Dance Generation with Style Description Prompts](https://arxiv.org/abs/2406.07871)
+#### [Flexible Music-Conditioned Dance Generation with Style Description Prompts](https://arxiv.org/abs/2406.07871), [Code](https://github.com/mucunzhuzhu/DGSDP)
 
 We propose flexible music-conditioned Dance Generation with Style Description Prompts (DGSDP) which deliberately incorporates style description prompts to enhance dance generation with styles. We introduce Music-Conditioned Style-Aware Diffusion (MCSAD) which primarily comprises a Transformer-based dance generation network and a novel style modulation module. 
 
@@ -93,7 +93,7 @@ We propose flexible music-conditioned Dance Generation with Style Description Pr
 
 我们提出了PAMD，一种面向音乐驱动舞蹈生成的扩散模型，能够生成既符合音乐节奏又符合人体物理可行性的舞蹈动作。为提升生成舞蹈的可信度，我们设计了可信动作约束（PMC），首次在音乐驱动动作生成中引入了NDF（神经距离场）以建模人类动作的连续可行性流形。
 
-#### [基于风格提示的灵活音乐驱动舞蹈生成](https://arxiv.org/abs/2406.07871)
+#### [基于风格提示的灵活音乐驱动舞蹈生成](https://arxiv.org/abs/2406.07871), [代码](https://github.com/mucunzhuzhu/DGSDP)
 
 我们提出了一种支持风格提示的灵活音乐驱动舞蹈生成方法，通过引入风格描述提示词增强动作的风格表现。提出的MCSAD框架包含一个基于Transformer的舞蹈生成网络和风格调制模块。
 
