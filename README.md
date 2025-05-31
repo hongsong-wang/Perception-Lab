@@ -17,6 +17,8 @@ We propose an Dual Visual-Text Alignment (DVTA), a novel zero-shot approach for 
 
 ### [Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection](https://arxiv.org/abs/2412.03044), [Code](https://github.com/Xiaofeng-Tan/FGDMAD-Code)
 
+We introduce a perturbation-based training paradigm for diffusion models to improve robustness against unseen normal motions in open-set scenarios. We introduce a frequency-guided denoising process to separate the global and local motion information into low-frequency and high-frequency components, prioritizing global reconstruction for effective anomaly detection.
+
 ### [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795), [Code](https://github.com/Chaolei98/FreeZAD), [Project](https://chaolei98.github.io/FreeZAD/)
 
 To the best of our knowledge, we are the first to investigate the problem of training-free ZSTAD. We propose FreeZAD, a training-free approach for ZSTAD, which effectively leverages the generalization capabilities of ViL models to detect unseen activities. We introduce a simple yet effective TTA method that extends FreeZAD and enhances its performance by enabling adaptation to a video sequence without supervision.
