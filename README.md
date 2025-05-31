@@ -85,7 +85,7 @@ We propose flexible music-conditioned Dance Generation with Style Description Pr
 
 我们的第一个贡献是提出了首个双语文本到动作数据集 BiHumanML3D，并配套提出双语动作扩散模型 BiMD。为了解决双语数据稀缺的问题，我们扩展了广泛使用的 HumanML3D 数据集，构建了其双语版本 BiHumanML3D。具体来说，我们设计了一种结合大语言模型翻译与人工校对的多阶段流程，以确保高质量的语义对齐。
 
-### [基于半在线偏好优化的文本驱动动作生成](https://arxiv.org/abs/2412.05095), [Code](https://github.com/Xiaofeng-Tan/SoPO), [项目主页](https://sopo-motion.github.io/)
+### [基于半在线偏好优化的文本驱动动作生成](https://arxiv.org/abs/2412.05095), [代码](https://github.com/Xiaofeng-Tan/SoPO), [项目主页](https://sopo-motion.github.io/)
 
 我们首先明确指出在线偏好优化受限于偏倚采样，导致高偏好得分之间差距过小；而离线偏好优化由于负样本匮乏，易过拟合，泛化能力差。为此我们提出SoPo方法，通过半在线偏好训练方式，将高质量的离线正样本与动态生成的多样负样本相结合，从而提升模型的生成能力与偏好区分能力。
 
