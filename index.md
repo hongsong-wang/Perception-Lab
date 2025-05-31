@@ -1,4 +1,4 @@
-# Recent Research by Our Visual Perception Group (视觉感知小组的最新研究成果)
+# Recent Research by Our Visual Perception Group (视觉感知小组的最新研究成果，[个人主页](https://cs.seu.edu.cn/hongsongwang/main.htm))
 
 ## Human Motion Understanding and Generation
 
