@@ -7,6 +7,8 @@
 
 We propose a simple yet effective method named Unified Skeleton-based Dense Representation Learning (USDRL) that learns dense representations through multi-grained feature decorrelation, demonstrating the feasibility of feature decorrelation in skeleton-based dense representations learning.
 
+#### [Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection](https://arxiv.org/html/2412.17210v2), [Code](https://github.com/guijiejie/DCMD-main), AAAI2025
+
 ### 2. Human Motion Generation
 
 # Below is the Chinese version (以下为对应的中文版本)
