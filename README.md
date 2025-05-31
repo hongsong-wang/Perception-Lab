@@ -27,7 +27,7 @@ To the best of our knowledge, we are the first to investigate the problem of tra
 
 We empirically study the neglected task of image-based human action retrieval, and establish new benchmarks and important baselines to promote research in this field. We introduce an efficient Region-aware Image-based human Action Retrieval with Transformers (RIART), which leverages both person-related and contextual object cues, and employs a fusion transformer module for human action retrieval.
 
-For further works about skeleton-based uman action understanding, please visit this page [skeleton_action_awesome](https://hongsong-wang.github.io/skeleton_action_awesome/).
+For further works about skeleton-based uman action understanding, please visit the [skeleton_action_awesome](https://hongsong-wang.github.io/skeleton_action_awesome/).
 
 ### 2. Human Motion Generation
 
