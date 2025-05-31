@@ -1,4 +1,4 @@
-# Recent Research by Our Visual Perception Group (视觉感知小组的最新研究成果，[个人主页](https://cs.seu.edu.cn/hongsongwang/main.htm)) ([Paper Abstract Portal of Top Conferences in Computer Vision and Machine Learning](https://hongsong-wang.github.io/CV_Paper_Portal/), [计算机视觉与机器学习顶会论文摘要入口](https://hongsong-wang.github.io/CV_Paper_Portal/))
+# Recent Research by Our Visual Perception Group (视觉感知小组的最新研究成果，[个人主页](https://cs.seu.edu.cn/hongsongwang/main.htm)) ([Paper Portal of Top Conferences in Computer Vision and Machine Learning](https://hongsong-wang.github.io/CV_Paper_Portal/), [计算机视觉与机器学习顶会论文摘要](https://hongsong-wang.github.io/CV_Paper_Portal/))
 
 ## Human Motion Understanding and Generation
 
