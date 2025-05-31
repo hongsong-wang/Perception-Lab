@@ -9,6 +9,8 @@ We propose a simple yet effective method named Unified Skeleton-based Dense Repr
 
 #### [Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection](https://arxiv.org/html/2412.17210v2), [Code](https://github.com/guijiejie/DCMD-main), AAAI2025
 
+We introduce a novel framework that seamlessly integrates reconstruction-based and prediction-based methods for video anomaly detection, leveraging the strengths of both approaches. We propose a Dual Conditioned Motion Diffusion (DCMD), which incorporates both conditioned motion and conditioned embedding in a diffusion-based model.
+
 ### 2. Human Motion Generation
 
 # Below is the Chinese version (以下为对应的中文版本)
