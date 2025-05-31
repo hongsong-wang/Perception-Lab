@@ -31,7 +31,7 @@ For further works about skeleton-based uman action understanding, please visit t
 
 ### 2. Human Motion Generation
 
-## [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](https://arxiv.org/abs/2505.04974), [Project](https://wengwanjiang.github.io/ReAlign-page/)
+### [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](https://arxiv.org/abs/2505.04974), [Project](https://wengwanjiang.github.io/ReAlign-page/)
 
 Our first contribution lies in the introduction of a pioneering bilingual text-to-motion dataset, BiHumanML3D, accompanied by a corresponding bilingual text-to-motion method, Bilingual Motion Diffusion (BiMD). To address the scarcity of bilingual text-motion datasets, we extend the widely used text-to-motion dataset, HumanML3D, by introducing its bilingual version, BiHumanML3D. Specifically, a multi-stage translation pipeline based on large language models and manual correction is designed to ensure high-quality annotations and accurate semantic translations.
 
@@ -81,7 +81,7 @@ We propose flexible music-conditioned Dance Generation with Style Description Pr
 
 ### 2. 人体动作生成
 
-## [中英双语文本驱动的人体动作生成](https://arxiv.org/abs/2505.04974), [项目主页](https://wengwanjiang.github.io/ReAlign-page/)
+### [中英双语文本驱动的人体动作生成](https://arxiv.org/abs/2505.04974), [项目主页](https://wengwanjiang.github.io/ReAlign-page/)
 
 我们的第一个贡献是提出了首个双语文本到动作数据集 BiHumanML3D，并配套提出双语动作扩散模型 BiMD。为了解决双语数据稀缺的问题，我们扩展了广泛使用的 HumanML3D 数据集，构建了其双语版本 BiHumanML3D。具体来说，我们设计了一种结合大语言模型翻译与人工校对的多阶段流程，以确保高质量的语义对齐。
 
