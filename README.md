@@ -1,7 +1,7 @@
 # Recent Research by Our Visual Perception Group
 
-# Human Motion Understanding and Generation
+## Human Motion Understanding and Generation
 
-## Human Action Understanding
+### 1. Human Action Understanding
 
-## Human Motion Generation Understanding
+### 2. Human Motion Generation Understanding
