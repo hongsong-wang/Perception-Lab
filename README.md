@@ -29,6 +29,20 @@ We empirically study the neglected task of image-based human action retrieval, a
 
 ### 2. Human Motion Generation
 
+## [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](https://arxiv.org/abs/2505.04974), [Project](https://wengwanjiang.github.io/ReAlign-page/)
+
+Our first contribution lies in the introduction of a pioneering bilingual text-to-motion dataset, BiHumanML3D, accompanied by a corresponding bilingual text-to-motion method, Bilingual Motion Diffusion (BiMD). To address the scarcity of bilingual text-motion datasets, we extend the widely used text-to-motion dataset, HumanML3D, by introducing its bilingual version, BiHumanML3D. Specifically, a multi-stage translation pipeline based on large language models and manual correction is designed to ensure high-quality annotations and accurate semantic translations.
+
+### [SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization](https://arxiv.org/abs/2412.05095), [Code](https://github.com/Xiaofeng-Tan/SoPO), [Project](https://sopo-motion.github.io/)
+
+Our first contribution is the explicit revelation of the limitations of both online and offline DPO. Online DPO is constrained by biased sampling, resulting in high-preference scores that limit the preference gap between preferred and unpreferred motions. Meanwhile, offline DPO suffers from overfitting due to limited labeled preference data, especially for unpreferred motions, leading to poor generalization. We propose a novel and effective SoPo method to address these limitations. SoPo trains models on “semi-online” data pairs that incorporate high-quality preferred motions from offline datasets alongside diverse unpreferred motions generated dynamically.
+
+### [PAMD: Plausibility-Aware Motion Diffusion Model for Long Dance Generation](https://www.arxiv.org/abs/2505.20056), [Code](https://github.com/mucunzhuzhu/PAMD), [Project](https://mucunzhuzhu.github.io/PAMD-page/)
+
+### [Flexible Music-Conditioned Dance Generation with Style Description Prompts](https://arxiv.org/abs/2406.07871)
+
+We propose flexible music-conditioned Dance Generation with Style Description Prompts (DGSDP) which deliberately incorporates style description prompts to enhance dance generation with styles. We introduce Music-Conditioned Style-Aware Diffusion (MCSAD) which primarily comprises a Transformer-based dance generation network and a novel style modulation module. 
+
 # Below is the Chinese version (以下为对应的中文版本)
 
 ## 人体动作理解与生成
