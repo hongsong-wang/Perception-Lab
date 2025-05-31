@@ -11,6 +11,8 @@ We propose a simple yet effective method named Unified Skeleton-based Dense Repr
 
 We introduce a novel framework that seamlessly integrates reconstruction-based and prediction-based methods for video anomaly detection, leveraging the strengths of both approaches. We propose a Dual Conditioned Motion Diffusion (DCMD), which incorporates both conditioned motion and conditioned embedding in a diffusion-based model.
 
+### [Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models](https://arxiv.org/abs/2501.13795), [Code](https://github.com/Chaolei98/FreeZAD), [Project](https://chaolei98.github.io/FreeZAD/)
+
 ### 2. Human Motion Generation
 
 # Below is the Chinese version (以下为对应的中文版本)
