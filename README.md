@@ -15,6 +15,10 @@ We introduce a novel framework that seamlessly integrates reconstruction-based a
 
 We propose an Dual Visual-Text Alignment (DVTA), a novel zero-shot approach for skeleton-based action recognition. The method enhances generalization to unseen classes by jointly optimizing two modules: Direct Alignment (DA) and Augmented Alignment (AA).
 
+#### [Data-Free Class-Incremental Gesture Recognition with Prototype-Guided Pseudo Feature Replay](https://arxiv.org/abs/2505.20049), [Code](https://github.com/sunao-101/PGPFR-3/)
+
+We introduce an efficient Prototype-Guided Pseudo Feature Replay (PGPFR) framework for class-incremental gesture recognition. This framework is capable of continually recognizing gestures from new classes while preserving data privacy. We propose a Pseudo Feature Generation with Batch Prototypes (PFGBP) module that utilizes efficient operations and batch prototypes to generate pseudo features and pseudo labels for old classes in an online fashion.
+
 #### [Frequency-Guided Diffusion Model with Perturbation Training for Skeleton-Based Video Anomaly Detection](https://arxiv.org/abs/2412.03044), [Code](https://github.com/Xiaofeng-Tan/FGDMAD-Code)
 
 We introduce a perturbation-based training paradigm for diffusion models to improve robustness against unseen normal motions in open-set scenarios. We introduce a frequency-guided denoising process to separate the global and local motion information into low-frequency and high-frequency components, prioritizing global reconstruction for effective anomaly detection.
