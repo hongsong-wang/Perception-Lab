@@ -35,7 +35,7 @@ For further works about skeleton-based uman action understanding, please visit t
 
 ### 2. Human Motion Generation
 
-#### [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](https://arxiv.org/abs/2505.04974), [Project](https://wengwanjiang.github.io/ReAlign-page/)
+#### [ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment](https://arxiv.org/abs/2505.04974)
 
 Our first contribution lies in the introduction of a pioneering bilingual text-to-motion dataset, BiHumanML3D, accompanied by a corresponding bilingual text-to-motion method, Bilingual Motion Diffusion (BiMD). To address the scarcity of bilingual text-motion datasets, we extend the widely used text-to-motion dataset, HumanML3D, by introducing its bilingual version, BiHumanML3D. Specifically, a multi-stage translation pipeline based on large language models and manual correction is designed to ensure high-quality annotations and accurate semantic translations.
 
